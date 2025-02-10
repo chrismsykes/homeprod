@@ -1,0 +1,26 @@
+{
+  "builds": [
+    {
+      "name": "ubuntu-server-nobel",
+      "builder_type": "proxmox-iso",
+      "files": null,
+      "artifact_id": "107",
+      "packer_run_uuid": "dd7c5b4a-6969-3812-639c-558fcc83050e",
+      "custom_data": {
+        "ansible_username": "ansible",
+        "build_date": "2025-02-09 05:49 UTC",
+        "build_username": "packer",
+        "build_version": "main",
+        "proxmox_node": "pve1",
+        "vm_bios": "ovmf",
+        "vm_cores": "2",
+        "vm_disk_size": "6G",
+        "vm_memory": "2048",
+        "vm_network_card": "virtio",
+        "vm_os": "l26",
+        "vm_sockets": "1"
+      }
+    }
+  ],
+  "last_run_uuid": "dd7c5b4a-6969-3812-639c-558fcc83050e"
+}

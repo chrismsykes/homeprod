@@ -1,0 +1,18 @@
+{
+  "builds": [
+    {
+      "name": "traininglab-server",
+      "builder_type": "proxmox-iso",
+      "files": null,
+      "artifact_id": "104",
+      "packer_run_uuid": "9d8c35eb-3bc9-cc5f-a08a-4d77237a40f1",
+      "custom_data": {
+        "build_date": "2025-02-02 20:35 UTC",
+        "build_username": "packer",
+        "build_version": "main",
+        "packer_data_source": "http"
+      }
+    }
+  ],
+  "last_run_uuid": "9d8c35eb-3bc9-cc5f-a08a-4d77237a40f1"
+}
