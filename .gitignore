@@ -14,4 +14,4 @@ crash.log
 # For built boxes
 *.box
 
-./packer/linux/ubuntu/server/24.04/manifests/*.json
+**/manifests/*
